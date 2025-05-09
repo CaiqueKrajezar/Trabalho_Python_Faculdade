@@ -4,7 +4,7 @@ Aprenda lógica de programação de forma divertida com dois projetos simples e 
 
 ---
 
-## 🛍️ **Loja Cupuaçu e Acaí**
+## 🛍️ **Loja Cupuaçu e Açai**
 
 ### *Sistema de Pedidos para Açailândia do Caique Krajezar* 🍨🍫
 
@@ -17,10 +17,6 @@ Um programa simples e delicioso que simula pedidos em uma loja fictícia de Cupu
 * ✅ **Validação de entradas do usuário**
 * 💰 **Cálculo acumulativo** do total do pedido
 * 🧾 **Mensagem final** com o valor total
-
-### 🧠 *Aprenda sobre*:
-
-`loops`, `condicionais`, `dicionários`, `entradas do usuário`
 
 ---
 
@@ -37,9 +33,34 @@ Um programa prático que calcula o valor de vendas com base em quantidade e pre�
 * 🎯 Aplica **descontos progressivos** (até 11%)
 * 💬 Exibe **mensagens personalizadas** com base no desconto
 
-### 🧠 *Aprenda sobre*:
+---
 
-`operações matemáticas`, `condições aninhadas`, `formatos de exibição`
+## ⚙️ **Configurações do Ambiente**
+
+Para rodar os projetos, siga estas instruções:
+
+### 📌 **Pré-requisitos**
+
+* Python **3.8** ou superior
+* Editor de texto ou IDE (recomendado: VS Code, PyCharm, ou IDLE)
+
+### 🖥️ **Instalação e Execução**
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   cd Trabalho_Python_Faculdade
+   ```
+2. Execute com o Python:
+
+   ```bash
+   python lojacupuacueacai.py
+   # ou
+   python atacadaodopovo.py
+   ```
+
+> 💡 Dica: Use um ambiente virtual (venv) para organizar seus projetos Python, mesmo que não haja dependências externas neste caso.
 
 ---
 
@@ -50,17 +71,7 @@ Explore, teste e aprenda com lógica aplicada a cenários reais (e saborosos)! �
 
 ---
 
-## 🚀 **Como rodar**
-
-1. Clone este repositório 📁
-2. Execute os arquivos `lojacupuacueacai.py` e `atacadaodopovo.py` no seu interpretador Python favorito 🐍
-3. Siga as instruções no terminal e divirta-se!
-
----
-
 ## 📫 **Contato**
 
 Desenvolvido por **Caique Krajezar**
 Contribuições, dúvidas ou sugestões? Sinta-se à vontade para entrar em contato! 😊
-
----
