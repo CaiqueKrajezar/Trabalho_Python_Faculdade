@@ -1,0 +1,38 @@
+# Mensagem inicial
+print("Seja bem vindo à Açailândia do Caique Krajezar.")
+
+# Valores
+precos = {
+    "CP": {"P": 9, "M": 14, "G": 18},
+    "AC": {"P": 11, "M": 16, "G": 20}
+}
+
+# Laço de Repetição do While
+total = 0
+
+while True:
+    # Sabor
+    sabor = input("Escolha o sabor (CP para Cupuaçu ou AC para Açaí): ").strip().upper()
+    if sabor not in precos:
+        print("O sabor está incorreto, tente novamente por favor")
+        continue  # Recomeça o loop caso o sabor seja inválido
+
+    # Tamanho
+    tamanho = input("Escolha o tamanho de sua preferência (P, M ou G): ").strip().upper()
+    if tamanho not in ["P", "M", "G"]:
+        print("O tamanho está incorreto, tente novamente por favor.")
+        continue  # Recomeça o loop caso o tamanho seja inválido
+
+    # Cálculo de preço
+    preco = precos[sabor][tamanho]
+    total += preco  # Acumulador de preço
+    print(f"Você pediu um {sabor} tamanho {tamanho}. Valor total: R${preco:.2f}")
+
+    # Deseja mais alguma coisa?
+    continuar = input("Deseja pedir mais alguma coisa? (sim/não): ").strip().lower()
+    if continuar == "não":
+        break  # Encerra o laço se o usuário não quiser mais nada
+
+# Total à pagar
+print(f"Obrigado por comprar conosco! O total do seu pedido é: R${total:.2f}")
+print(f"Volte sempre!")
