@@ -4,7 +4,7 @@ Aprenda lógica de programação de forma divertida com dois projetos simples e 
 
 ---
 
-## 🛍️ **LojaCupuacueAcai**
+## 🛍️ **Loja Cupuaçu e Acaí**
 
 ### *Sistema de Pedidos para Açailândia do Caique Krajezar* 🍨🍫
 
@@ -24,7 +24,7 @@ Um programa simples e delicioso que simula pedidos em uma loja fictícia de Cupu
 
 ---
 
-## 🏪 **AtacadaoDoPovo**
+## 🏪 **Atacadão do Povo**
 
 ### *Sistema de Cálculo de Vendas para o Atacadão do Caique* 📦🧮
 
