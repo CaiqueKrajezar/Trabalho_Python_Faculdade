@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de um README com ícones divertidos e uma estrutura amigável para os dois projetos em Python:
-
----
-
 # 🍧 **Projetos Didáticos em Python por Caique Krajezar**
 
 Aprenda lógica de programação de forma divertida com dois projetos simples e práticos! 🚀
