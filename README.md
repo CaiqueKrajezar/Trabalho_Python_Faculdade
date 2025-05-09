@@ -49,7 +49,7 @@ Para rodar os projetos, siga estas instruções:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/CaiqueKrajezar/Trabalho_Python_Faculdade.git
    cd Trabalho_Python_Faculdade
    ```
 2. Execute com o Python:
