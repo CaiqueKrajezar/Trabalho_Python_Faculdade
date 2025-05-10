@@ -33,8 +33,45 @@ Um programa prático que calcula o valor de vendas com base em quantidade e pre�
 * 🎯 Aplica **descontos progressivos** (até 11%)
 * 💬 Exibe **mensagens personalizadas** com base no desconto
 
+# 📚 **Projetos Didáticos em Python por Caique Krajezar**
+
+Aprenda lógica de programação de forma divertida com projetos simples e práticos! 🚀
+
 ---
 
+## 📚 **Livraria Dom Juan**
+
+### *Sistema de Gerenciamento de Livros para a Livraria Dom Juan* 📖📚
+
+Um programa que simula o gerenciamento de livros em uma livraria fictícia. Ideal para praticar manipulação de listas, dicionários e estruturas de controle em Python.
+
+### ✨ **Funcionalidades**:
+
+* 📥 **Cadastrar livros** com ID, nome, autor e editora.
+* 🔍 **Consultar livros**:
+  * Consultar todos os livros cadastrados.
+  * Consultar por ID.
+  * Consultar por autor.
+* 🗑️ **Remover livros** por ID.
+* 🧾 **Menu interativo** com opções claras para o usuário.
+
+---
+
+## 🖨️ **Copiadora Cópia Perfeita**
+
+### *Sistema de Cálculo de Serviços para a Copiadora Cópia Perfeita* 🖨️📄
+
+Um programa que calcula o custo de serviços de uma copiadora fictícia, com descontos progressivos e opções de serviços adicionais. Perfeito para praticar lógica condicional e cálculos matemáticos em Python.
+
+### ✨ **Funcionalidades**:
+
+* 🖋️ **Escolha de serviços**: Digitação, Impressão Colorida, Impressão Preto e Branco, Fotocópia.
+* 📄 **Cálculo de páginas** com descontos progressivos baseados na quantidade.
+* ➕ **Serviços adicionais**: Encadernação Simples ou Capa Dura.
+* 💰 **Cálculo do total** com base no serviço escolhido, quantidade de páginas e serviços extras.
+* 🧾 **Resumo do pedido** com todos os detalhes.
+
+---
 ## ⚙️ **Configurações do Ambiente**
 
 Para rodar os projetos, siga estas instruções:
