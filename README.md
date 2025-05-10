@@ -33,10 +33,6 @@ Um programa prático que calcula o valor de vendas com base em quantidade e pre�
 * 🎯 Aplica **descontos progressivos** (até 11%)
 * 💬 Exibe **mensagens personalizadas** com base no desconto
 
-# 📚 **Projetos Didáticos em Python por Caique Krajezar**
-
-Aprenda lógica de programação de forma divertida com projetos simples e práticos! 🚀
-
 ---
 
 ## 📚 **Livraria Dom Juan**
