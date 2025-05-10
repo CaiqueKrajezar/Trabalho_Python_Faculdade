@@ -1,5 +1,5 @@
 # Atacadão do Caique
-print("Bem-vindo ao do Caique!")
+print("Bem-vindo ao do Caique Krajezar!")
 print("Meu nome é Caique Krajezar, eu sou o dono, em que posso ajudar?")
 
 # Valor do Produto e Quantidade Solicitada 
